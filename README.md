@@ -1,5 +1,5 @@
 # MusicAutomata
-MusicAutomata is Java application that runs a 2D Cellular Automata simulation with customizable rules, and uses the resulting grid to generate real-time harmonically related sinusoudal sounds.
+MusicAutomata is Java application that runs a 2D Cellular Automata simulation with customizable rules, and uses the resulting grid to generate real-time harmonically related sinusoudal sounds with JSyn.
 
 ## Demo
 The following video shows the application running.
